@@ -9,7 +9,7 @@ export default defineConfig({
 
     use:
     {
-        headless: false,
+        headless: true,
     },
 
     projects:[{
